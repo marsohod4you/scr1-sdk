@@ -4,6 +4,7 @@
 [submodule "fpga"]
 	path = fpga
 	url = https://github.com/marsohod4you/fpga-sdk-prj
+	branch = master
 [submodule "sw/sc-bl"]
 	path = sw/sc-bl
 	url = https://github.com/marsohod4you/sc-bl
